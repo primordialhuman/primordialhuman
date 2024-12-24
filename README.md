@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [saisunilakula.web.app](saisunilakula.web.app)
 
-- 📝 I regularly write articles on [Soon will be updated if successful :)](Soon will be updated if successful :))
-
 - 💬 Ask me about **SpringBoot, Linux , Anime , Music , Tech , M3 (Manga,Manhua,Manhwa)**
 
 - 📫 How to reach me **saisunilakula444@gmail.com**
