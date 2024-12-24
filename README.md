@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primordialhuman&label=Profile%20views&color=0e75b6&style=flat" alt="primordialhuman" /> </p>
 
-- 🔭 I’m currently working on **Selhosted Server and practising DevOps using KodeKloud**
+- 🔭 I’m currently working on **Selfhosted Server and practising DevOps using KodeKloud**
 
 - 🌱 I’m currently learning **Kubernetes , Docker , Jenkins , AWS , Server Configuration**
 
-- 👯 I’m looking to collaborate on **OpenSource (interested more on music, anime and also hentai lol)**
-
+- 👯 I’m looking to collaborate on **OpenSource .
 - 🤝 I’m looking for help with **Devops Roles in your connections**
 
 - 👨‍💻 All of my projects are available at [saisunilakula.web.app](saisunilakula.web.app)
@@ -19,7 +18,7 @@
 
 - 📫 How to reach me **saisunilakula444@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing](https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing](https://drive.google.com/file/d/1SvrMl38cEX6g_hFldGpNoIQgGcHF4aA1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am having Existential and Paradox Crisis.**
 
