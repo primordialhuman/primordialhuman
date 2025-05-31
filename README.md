@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primordialhuman&label=Profile%20views&color=0e75b6&style=flat" alt="primordialhuman" /> </p>
 
-- 🔭 I’m currently working on **Selfhosted Server and practising DevOps using KodeKloud**
+- 🔭 I’m currently working on **Selfhosted Server and practising DevOps and n8n automation**
 
 - 🌱 I’m currently learning **Kubernetes , Docker , Jenkins , AWS , Server Configuration**
 
