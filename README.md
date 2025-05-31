@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primordialhuman&label=Profile%20views&color=0e75b6&style=flat" alt="primordialhuman" /> </p>
 
-# 👋 Hey, I'm Sai Sunil Akula — Automating Reality, One Pipeline at a Time 🚀
 
 🔧 **DevOps Engineer | AI Workflow Crafter | Self-Hosting Enthusiast**  
 🌐 [Portfolio](https://saisunilakula.web.app) • 📧 saisunilakula444@gmail.com • 🧠 [Credly](https://www.credly.com/users/saisunil-akula) • 💻 [GitHub](https://github.com/primordialhuman)
