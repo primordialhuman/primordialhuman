@@ -30,7 +30,7 @@ Also into: Anime 🎴 | Linux Ricing 🧬 | Phonk 🎧 | Digital Minimalism 📵
 
 ---
 
-## 📄 [View My Resume](https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing)
+## 📄 [View My Resume](https://drive.google.com/file/d/1fUmNc6FZRzpHGWeObdDzvOjkEUcfxeXB/view?usp=sharing)
 
 ## 📫 Reach Me
 📧 **saisunilakula444@gmail.com**  
