@@ -12,7 +12,6 @@
 ## 🔭 Currently Building...
 - **Self-hosted HomeLab** on Arch Linux running everything from Jellyfin to Jenkins, powered by smart automation 🔌
 - CI/CD pipelines that deliver production-ready apps at light speed 🚀
-- DevSecOps environments with SonarQube, JaCoCo & CloudWatch for total visibility 🔍
 - AI-driven automations using n8n, GPT-4o, and Ollama 🤖
 
 ---
@@ -22,40 +21,6 @@
 - Exploring the intersection of **DevOps + AI** (RAG pipelines, TTS, OpenAI automation)
 - Building resilience with **Cloud-native observability & IaC**
 
----
-
-## 💼 Professional Snapshot
-**Software Engineer (DevOps) @ Capgemini**  
-📍 Pune | 🕐 Oct 2023 – Present  
-- CI/CD with Jenkins + AWS CDK → 100% automated deployments, 30% faster delivery
-- Dockerized microservices deployed to ECS & EC2
-- Live production monitoring via CloudWatch Dashboards & SNS alerts
-- Reduced deployment errors 20% using Helm magic ✨
-
-**Cybersecurity Intern @ Virtually Testing Foundation**  
-🕵️ OSINT research & proactive security documentation
-
----
-
-## 💡 Side Projects That Keep Me Up At Night
-### 🔐 [Votenirvan](https://github.com/primordialhuman/votenirvan) — Secure Voting System  
-- Built on Spring Boot + JWT + Kubernetes + Jenkins  
-- Real-time CI/CD + Helm-deployable + SonarQube integrated
-
-### 📰 AI Automation Workflow  
-- Fetches daily news → Summarizes with **GPT-4o mini** → Delivers as digest  
-- Built with **n8n**, **OpenAI API**, and **cron automations**
-
-### 🏡 HomeLab Server  
-- Nextcloud, Jellyfin, Vaultwarden, Komga, Sonarr... all self-hosted!  
-- Remote control via Zebronics IoT switch & Cloudflare Tunnel ⚡
-
----
-
-## 📜 Certifications
-- ✅ **CKA** – Certified Kubernetes Administrator  
-- ✅ **AWS SysOps Administrator**  
-- ✅ **AWS Cloud Practitioner**
 
 ---
 
