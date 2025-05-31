@@ -3,22 +3,81 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primordialhuman&label=Profile%20views&color=0e75b6&style=flat" alt="primordialhuman" /> </p>
 
-- 🔭 I’m currently working on **Selfhosted Server and practising DevOps and n8n automation**
+# 👋 Hey, I'm Sai Sunil Akula — Automating Reality, One Pipeline at a Time 🚀
 
-- 🌱 I’m currently learning **Kubernetes , Docker , Jenkins , AWS , Server Configuration**
+🔧 **DevOps Engineer | AI Workflow Crafter | Self-Hosting Enthusiast**  
+🌐 [Portfolio](https://saisunilakula.web.app) • 📧 saisunilakula444@gmail.com • 🧠 [Credly](https://www.credly.com/users/saisunil-akula) • 💻 [GitHub](https://github.com/primordialhuman)
 
-- 👯 I’m looking to collaborate on **OpenSource .
-- 🤝 I’m looking for help with **Devops Roles in your connections**
+---
 
-- 👨‍💻 All of my projects are available at [saisunilakula.web.app](saisunilakula.web.app)
+## 🔭 Currently Building...
+- **Self-hosted HomeLab** on Arch Linux running everything from Jellyfin to Jenkins, powered by smart automation 🔌
+- CI/CD pipelines that deliver production-ready apps at light speed 🚀
+- DevSecOps environments with SonarQube, JaCoCo & CloudWatch for total visibility 🔍
+- AI-driven automations using n8n, GPT-4o, and Ollama 🤖
 
-- 💬 Ask me about **SpringBoot, Linux , Anime , Music , Tech , M3 (Manga,Manhua,Manhwa)**
+---
 
-- 📫 How to reach me **saisunilakula444@gmail.com**
+## 🌱 Always Learning
+- Deep diving into **Kubernetes**, **Helm**, **AWS CDK**, and **Terraform**
+- Exploring the intersection of **DevOps + AI** (RAG pipelines, TTS, OpenAI automation)
+- Building resilience with **Cloud-native observability & IaC**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing](https://drive.google.com/file/d/1SvrMl38cEX6g_hFldGpNoIQgGcHF4aA1/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I think I am having Existential and Paradox Crisis.**
+## 💼 Professional Snapshot
+**Software Engineer (DevOps) @ Capgemini**  
+📍 Pune | 🕐 Oct 2023 – Present  
+- CI/CD with Jenkins + AWS CDK → 100% automated deployments, 30% faster delivery
+- Dockerized microservices deployed to ECS & EC2
+- Live production monitoring via CloudWatch Dashboards & SNS alerts
+- Reduced deployment errors 20% using Helm magic ✨
+
+**Cybersecurity Intern @ Virtually Testing Foundation**  
+🕵️ OSINT research & proactive security documentation
+
+---
+
+## 💡 Side Projects That Keep Me Up At Night
+### 🔐 [Votenirvan](https://github.com/primordialhuman/votenirvan) — Secure Voting System  
+- Built on Spring Boot + JWT + Kubernetes + Jenkins  
+- Real-time CI/CD + Helm-deployable + SonarQube integrated
+
+### 📰 AI Automation Workflow  
+- Fetches daily news → Summarizes with **GPT-4o mini** → Delivers as digest  
+- Built with **n8n**, **OpenAI API**, and **cron automations**
+
+### 🏡 HomeLab Server  
+- Nextcloud, Jellyfin, Vaultwarden, Komga, Sonarr... all self-hosted!  
+- Remote control via Zebronics IoT switch & Cloudflare Tunnel ⚡
+
+---
+
+## 📜 Certifications
+- ✅ **CKA** – Certified Kubernetes Administrator  
+- ✅ **AWS SysOps Administrator**  
+- ✅ **AWS Cloud Practitioner**
+
+---
+
+## 💬 Talk To Me About:
+`SpringBoot` • `Kubernetes` • `n8n` • `Self-Hosting` • `M3 (Manga, Manhua, Manhwa)`  
+Also into: Anime 🎴 | Linux Ricing 🧬 | Phonk 🎧 | Digital Minimalism 📵
+
+---
+
+## 📄 [View My Resume](https://drive.google.com/file/d/1_mmYjRscvADyy8yvDJLhw9Cnxyov_LHQ/view?usp=sharing)
+
+## 📫 Reach Me
+📧 **saisunilakula444@gmail.com**  
+🌍 [saisunilakula.web.app](https://saisunilakula.web.app)
+
+---
+
+⚡ **Fun Fact:** I treat YAML like poetry, build infra in my dreams, and think Linux is a lifestyle — not an OS.
+
+> "Existence is a pipeline. Keep deploying."
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
