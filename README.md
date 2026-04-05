@@ -5,7 +5,8 @@
 
 
 🔧 **DevOps Engineer | AI Workflow Crafter | Self-Hosting Enthusiast**  
-🌐 [Portfolio](https://saisunilakula.web.app) • 📧 saisunilakula444@gmail.com • 🧠 [Credly](https://www.credly.com/users/saisunil-akula) • 💻 [GitHub](https://github.com/primordialhuman)
+🌐 [Portfolio]([https://saisunilakula.web.app](http://saisunilakuladevops.web.app
+)) • 📧 saisunilakula444@gmail.com • 🧠 [Credly](https://www.credly.com/users/saisunil-akula) • 💻 [GitHub](https://github.com/primordialhuman)
 
 ---
 
@@ -21,7 +22,6 @@
 - Exploring the intersection of **DevOps + AI** (RAG pipelines, TTS, OpenAI automation)
 - Building resilience with **Cloud-native observability & IaC**
 
-
 ---
 
 ## 💬 Talk To Me About:
@@ -30,11 +30,12 @@ Also into: Anime 🎴 | Linux Ricing 🧬 | Phonk 🎧 | Digital Minimalism 📵
 
 ---
 
-## 📄 [View My Resume](https://drive.google.com/file/d/1fUmNc6FZRzpHGWeObdDzvOjkEUcfxeXB/view?usp=sharing)
+## 📄 [View My Resume](https://drive.google.com/file/d/1X-DFVYKbhYin2xAjXsOm20KG5Oqt9O5j/view)
 
 ## 📫 Reach Me
 📧 **saisunilakula444@gmail.com**  
-🌍 [saisunilakula.web.app](https://saisunilakula.web.app)
+🌍 [saisunilakuladevops.web.app]([https://saisunilakula.web.app](http://saisunilakuladevops.web.app
+))
 
 ---
 
