@@ -34,8 +34,7 @@ Also into: Anime 🎴 | Linux Ricing 🧬 | Phonk 🎧 | Digital Minimalism 📵
 
 ## 📫 Reach Me
 📧 **saisunilakula444@gmail.com**  
-🌍 [saisunilakuladevops.web.app]([https://saisunilakula.web.app](http://saisunilakuladevops.web.app
-))
+
 
 ---
 
