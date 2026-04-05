@@ -5,7 +5,7 @@
 
 
 🔧 **DevOps Engineer | AI Workflow Crafter | Self-Hosting Enthusiast**  
-🌐 [Portfolio]([https://saisunilakula.web.app](http://saisunilakuladevops.web.app
+🌐 [Portfolio](http://saisunilakuladevops.web.app)
 )) • 📧 saisunilakula444@gmail.com • 🧠 [Credly](https://www.credly.com/users/saisunil-akula) • 💻 [GitHub](https://github.com/primordialhuman)
 
 ---
